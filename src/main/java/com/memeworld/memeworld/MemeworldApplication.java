@@ -9,5 +9,4 @@ public class MemeworldApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MemeworldApplication.class, args);
 	}
-
 }
